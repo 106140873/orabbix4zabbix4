@@ -1,4 +1,4 @@
-作用：使用zabbix4支持监控oracle11g、Oracle12c
+作用：使zabbix4支持监控oracle11g、Oracle12c
 
 ## 使用方式
 
