@@ -9,6 +9,7 @@
 我修改了build.sh，没有使用docker方式
 
 cd orabbix
+
 sh run.sh
 
 ## 使用方式
