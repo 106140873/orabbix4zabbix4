@@ -23,6 +23,7 @@ ORACLE12默认只支持本地访问，除非切换为共享服务器模式
 从安全角度建议orabbix放在被监控机上，配合zabbix-agent来实现监控的目的。
 
 #config.props示例
+
 cat config.props
 
 ZabbixServerList=ZabbixServer1
