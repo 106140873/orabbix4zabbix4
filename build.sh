@@ -17,5 +17,5 @@ cp orabbix-1.2.3.jar ../orabbix
 
 cd ..
 
-echo "build image"
-docker build . -t zabbix-agent-oracle
+#echo "build image"
+#docker build . -t zabbix-agent-oracle
