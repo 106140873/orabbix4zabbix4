@@ -6,6 +6,11 @@
 修改了 `Sender.java`, 并把编译好的 class 文件, 添加到 orabbix-1.2.3.jar 中.
 并打成了个 image.
 
+我修改了build.sh，没有使用docker方式
+
+cd orabbix
+sh run.sh
+
 ## 使用方式
 
 首先执行 `build.sh`, 这个脚本会编译 `Sender.java`, 并把 class 文件,添加到原来的
